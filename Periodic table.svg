@@ -37,16 +37,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="856"
+     inkscape:window-height="696"
      id="namedview12544"
      showgrid="false"
-     inkscape:zoom="1.1084812"
-     inkscape:cx="573.86212"
-     inkscape:cy="1093.7333"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.5676291"
+     inkscape:cx="423.59052"
+     inkscape:cy="1153.2013"
+     inkscape:window-x="501"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g12540" />
   <linearGradient
      id="a">
@@ -2192,7 +2192,7 @@
              x="41.658131"
              y="243.54782"
              id="tspan320"
-             style="font-size:2.82222223px;stroke-width:0.26458332">95,96(2)#</tspan></text>
+             style="font-size:2.82222223px;stroke-width:0.26458332">95.96(2)#</tspan></text>
         <text
            font-size="11.28888893"
            line-height="1.25"
@@ -2234,7 +2234,7 @@
                x="63.658924"
                y="252.36569"
                id="tspan332"
-               style="font-size:2.11666656px;stroke-width:0.26458332">2,16</tspan></text>
+               style="font-size:2.11666656px;stroke-width:0.26458332">2.16</tspan></text>
           <text
              line-height="1.25"
              x="50.028156"
@@ -2288,7 +2288,7 @@
                x="51.150471"
                y="269.87891"
                id="tspan352"
-               style="stroke-width:0.26458332">10,28</tspan></text>
+               style="stroke-width:0.26458332">10.28</tspan></text>
         </g>
       </g>
       <path
@@ -3584,7 +3584,7 @@
              x="42.426624"
              y="-36.756042"
              id="tspan796"
-             style="font-size:2.82222223px;stroke-width:0.26458332">132,9</tspan></text>
+             style="font-size:2.82222223px;stroke-width:0.26458332">132.9</tspan></text>
         <text
            font-size="11.28888893"
            line-height="1.25"
@@ -3626,7 +3626,7 @@
                x="64.814674"
                y="-27.909035"
                id="tspan808"
-               style="font-size:2.11666656px;stroke-width:0.26458332">0,79</tspan></text>
+               style="font-size:2.11666656px;stroke-width:0.26458332">0.79</tspan></text>
           <text
              line-height="1.25"
              x="52.46571"
@@ -3653,7 +3653,7 @@
                x="53.095249"
                y="-16.217529"
                id="tspan818"
-               style="fill:#0000ff;stroke-width:0.26458332">28,5</tspan></text>
+               style="fill:#0000ff;stroke-width:0.26458332">28.5</tspan></text>
           <text
              line-height="1.25"
              x="53.568604"
@@ -3675,7 +3675,7 @@
                x="53.024281"
                y="-10.424934"
                id="tspan826"
-               style="stroke-width:0.26458332">1,93</tspan></text>
+               style="stroke-width:0.26458332">1.93</tspan></text>
         </g>
       </g>
       <g
@@ -3768,7 +3768,7 @@
                x="42.1796"
                y="-35.486118"
                id="tspan856"
-               style="font-size:2.82222223px;stroke-width:0.26458332">[24,30 - 24,31]</tspan></text>
+               style="font-size:2.82222223px;stroke-width:0.26458332">[24.30 - 24.31]</tspan></text>
           <text
              font-size="11.28888893"
              line-height="1.25"
@@ -3810,7 +3810,7 @@
                  x="64.810814"
                  y="-26.616007"
                  id="tspan868"
-                 style="font-size:2.11666656px;stroke-width:0.26458332">1,31</tspan></text>
+                 style="font-size:2.11666656px;stroke-width:0.26458332">1.31</tspan></text>
             <text
                line-height="1.25"
                x="49.273819"
@@ -3859,7 +3859,7 @@
                  x="52.674129"
                  y="-9.154995"
                  id="tspan886"
-                 style="stroke-width:0.26458332">1,74</tspan></text>
+                 style="stroke-width:0.26458332">1.74</tspan></text>
           </g>
         </g>
         <g
@@ -3952,7 +3952,7 @@
                  x="42.583973"
                  y="-37.790798"
                  id="tspan916"
-                 style="font-size:2.82222223px;stroke-width:0.26458332">40,08#</tspan></text>
+                 style="font-size:2.82222223px;stroke-width:0.26458332">40.08#</tspan></text>
             <text
                font-size="11.28888893"
                line-height="1.25"
@@ -3994,7 +3994,7 @@
                    x="64.652954"
                    y="-28.966757"
                    id="tspan928"
-                   style="font-size:2.11666656px;stroke-width:0.26458332">1,00</tspan></text>
+                   style="font-size:2.11666656px;stroke-width:0.26458332">1.00</tspan></text>
               <text
                  line-height="1.25"
                  x="52.355659"
@@ -4043,7 +4043,7 @@
                    x="52.859333"
                    y="-11.459679"
                    id="tspan946"
-                   style="stroke-width:0.26458332">1,55</tspan></text>
+                   style="stroke-width:0.26458332">1.55</tspan></text>
             </g>
           </g>
         </g>
@@ -4134,7 +4134,7 @@
                x="42.336098"
                y="45.880299"
                id="tspan978"
-               style="font-size:2.82222223px;stroke-width:0.26458332">87,62#</tspan></text>
+               style="font-size:2.82222223px;stroke-width:0.26458332">87.62#</tspan></text>
           <text
              font-size="10.58333302"
              line-height="1.25"
@@ -4176,7 +4176,7 @@
                  x="64.562515"
                  y="54.76511"
                  id="tspan990"
-                 style="font-size:2.11666656px;stroke-width:0.26458332">0,95</tspan></text>
+                 style="font-size:2.11666656px;stroke-width:0.26458332">0.95</tspan></text>
             <text
                line-height="1.25"
                x="52.280724"
@@ -4225,7 +4225,7 @@
                  x="52.753391"
                  y="72.211411"
                  id="tspan1008"
-                 style="stroke-width:0.26458332">2,64</tspan></text>
+                 style="stroke-width:0.26458332">2.64</tspan></text>
           </g>
         </g>
         <path
@@ -4315,7 +4315,7 @@
                x="42.117233"
                y="86.857101"
                id="tspan1038"
-               style="font-size:2.82222223px;stroke-width:0.26458332">137,3</tspan></text>
+               style="font-size:2.82222223px;stroke-width:0.26458332">137.3</tspan></text>
           <text
              font-size="11.28888893"
              line-height="1.25"
@@ -4355,7 +4355,7 @@
                x="64.497643"
                y="95.726974"
                id="tspan1050"
-               style="font-size:2.11666656px;stroke-width:0.26458332">0,89</tspan></text>
+               style="font-size:2.11666656px;stroke-width:0.26458332">0.89</tspan></text>
           <text
              font-size="2.82222223"
              line-height="1.25"
@@ -4408,7 +4408,7 @@
                x="52.937374"
                y="113.18823"
                id="tspan1068"
-               style="stroke-width:0.26458332">3,51</tspan></text>
+               style="stroke-width:0.26458332">3.51</tspan></text>
         </g>
         <g
            transform="translate(-0.19546251,165.68749)"
@@ -4542,7 +4542,7 @@
                    x="64.652954"
                    y="-28.888811"
                    id="tspan1108"
-                   style="font-size:2.11666656px;stroke-width:0.26458332">0,90</tspan></text>
+                   style="font-size:2.11666656px;stroke-width:0.26458332">0.90</tspan></text>
               <text
                  line-height="1.25"
                  x="52.173759"
@@ -4591,7 +4591,7 @@
                    x="53.664108"
                    y="-11.459679"
                    id="tspan1126"
-                   style="stroke-width:0.26458332">5,5</tspan></text>
+                   style="stroke-width:0.26458332">5.5</tspan></text>
             </g>
           </g>
         </g>
@@ -4713,7 +4713,7 @@
                  x="41.975433"
                  y="-34.787224"
                  id="tspan1168"
-                 style="font-size:2.82222223px;stroke-width:0.26458332">9,012</tspan></text>
+                 style="font-size:2.82222223px;stroke-width:0.26458332">9.012</tspan></text>
             <text
                font-size="11.28888893"
                line-height="1.25"
@@ -4755,7 +4755,7 @@
                    x="64.164986"
                    y="-25.947254"
                    id="tspan1180"
-                   style="font-size:2.11666656px;stroke-width:0.26458332">1,57</tspan></text>
+                   style="font-size:2.11666656px;stroke-width:0.26458332">1.57</tspan></text>
               <text
                  line-height="1.25"
                  x="51.608688"
@@ -4804,7 +4804,7 @@
                    x="52.368679"
                    y="-8.4561138"
                    id="tspan1198"
-                   style="stroke-width:0.26458332">1,85</tspan></text>
+                   style="stroke-width:0.26458332">1.85</tspan></text>
             </g>
           </g>
           <g
@@ -5139,7 +5139,7 @@
                    x="42.57132"
                    y="-36.756042"
                    id="tspan1316"
-                   style="font-size:2.82222223px;stroke-width:0.26458332">39,10</tspan></text>
+                   style="font-size:2.82222223px;stroke-width:0.26458332">39.10</tspan></text>
             </g>
             <text
                font-size="11.28888893"
@@ -5180,7 +5180,7 @@
                  x="64.817375"
                  y="-27.951298"
                  id="tspan1330"
-                 style="font-size:2.11666656px;stroke-width:0.26458332">0,82</tspan></text>
+                 style="font-size:2.11666656px;stroke-width:0.26458332">0.82</tspan></text>
             <text
                font-size="2.82222223"
                line-height="1.25"
@@ -5209,7 +5209,7 @@
                  x="53.08514"
                  y="-16.217529"
                  id="tspan1340"
-                 style="fill:#0000ff;stroke-width:0.26458332">63,5</tspan></text>
+                 style="fill:#0000ff;stroke-width:0.26458332">63.5</tspan></text>
             <text
                font-size="2.82222223"
                line-height="1.25"
@@ -5233,7 +5233,7 @@
                  x="53.065845"
                  y="-10.424934"
                  id="tspan1348"
-                 style="stroke-width:0.26458332">0,86</tspan></text>
+                 style="stroke-width:0.26458332">0.86</tspan></text>
             <g
                font-size="10.58333302"
                id="g1624"
@@ -6198,7 +6198,7 @@
                x="15.534842"
                y="19.889086"
                id="tspan1672"
-               style="font-size:2.82222223px;stroke-width:0.26458332">[1,007 - 1,009]</tspan></text>
+               style="font-size:2.82222223px;stroke-width:0.26458332">[1.007 - 1.009]</tspan></text>
         </g>
         <text
            font-size="11.28888893"
@@ -6241,7 +6241,7 @@
                x="37.860134"
                y="28.743284"
                id="tspan1686"
-               style="font-size:2.11666656px;stroke-width:0.26458332">2,00</tspan></text>
+               style="font-size:2.11666656px;stroke-width:0.26458332">2.00</tspan></text>
           <text
              line-height="1.25"
              x="27.339888"
@@ -6268,7 +6268,7 @@
                x="24.97517"
                y="40.427605"
                id="tspan1696"
-               style="fill:#0000ff;stroke-width:0.26458332">-259,1</tspan></text>
+               style="fill:#0000ff;stroke-width:0.26458332">-259.1</tspan></text>
           <text
              line-height="1.25"
              x="24.782246"
@@ -6279,7 +6279,7 @@
                x="24.782246"
                y="43.400726"
                id="tspan1700"
-               style="fill:#ff0000;stroke-width:0.26458332">-252,9</tspan></text>
+               style="fill:#ff0000;stroke-width:0.26458332">-252.9</tspan></text>
           <text
              line-height="1.25"
              x="26.335295"
@@ -6410,7 +6410,7 @@
              x="15.540121"
              y="60.706375"
              id="tspan1744"
-             style="font-size:2.82222223px;stroke-width:0.26458332">[6,938 - 6,997]</tspan></text>
+             style="font-size:2.82222223px;stroke-width:0.26458332">[6.938 - 6.997]</tspan></text>
         <text
            font-size="11.28888893"
            line-height="1.25"
@@ -6452,7 +6452,7 @@
                x="37.86541"
                y="69.584404"
                id="tspan1756"
-               style="font-size:2.11666656px;stroke-width:0.26458332">0,98</tspan></text>
+               style="font-size:2.11666656px;stroke-width:0.26458332">0.98</tspan></text>
           <text
              line-height="1.25"
              x="25.412462"
@@ -6479,7 +6479,7 @@
                x="25.327488"
                y="81.244896"
                id="tspan1766"
-               style="fill:#0000ff;stroke-width:0.26458332">180,5</tspan></text>
+               style="fill:#0000ff;stroke-width:0.26458332">180.5</tspan></text>
           <text
              line-height="1.25"
              x="25.598272"
@@ -6501,7 +6501,7 @@
                x="26.197031"
                y="87.037483"
                id="tspan1774"
-               style="stroke-width:0.26458332">0,53</tspan></text>
+               style="stroke-width:0.26458332">0.53</tspan></text>
         </g>
         <g
            font-size="10.58333302"
@@ -6824,7 +6824,7 @@
              x="42.598248"
              y="-38.347"
              id="tspan1882"
-             style="font-size:2.82222223px;stroke-width:0.26458332">22,99</tspan></text>
+             style="font-size:2.82222223px;stroke-width:0.26458332">22.99</tspan></text>
         <text
            font-size="11.28888893"
            line-height="1.25"
@@ -6866,7 +6866,7 @@
                x="64.867386"
                y="-29.442028"
                id="tspan1894"
-               style="font-size:2.11666656px;stroke-width:0.26458332">0,93</tspan></text>
+               style="font-size:2.11666656px;stroke-width:0.26458332">0.93</tspan></text>
           <text
              line-height="1.25"
              x="52.298279"
@@ -6893,7 +6893,7 @@
                x="53.06171"
                y="-17.808481"
                id="tspan1904"
-               style="fill:#0000ff;stroke-width:0.26458332">97,8</tspan></text>
+               style="fill:#0000ff;stroke-width:0.26458332">97.8</tspan></text>
           <text
              line-height="1.25"
              x="52.314816"
@@ -6904,7 +6904,7 @@
                x="52.314816"
                y="-14.835356"
                id="tspan1908"
-               style="fill:#ff0000;stroke-width:0.26458332">882,9</tspan></text>
+               style="fill:#ff0000;stroke-width:0.26458332">882.9</tspan></text>
           <text
              line-height="1.25"
              x="53.074116"
@@ -6915,7 +6915,7 @@
                x="53.074116"
                y="-12.015882"
                id="tspan1912"
-               style="stroke-width:0.26458332">0,97</tspan></text>
+               style="stroke-width:0.26458332">0.97</tspan></text>
         </g>
         <g
            font-size="10.58333302"
@@ -7374,7 +7374,7 @@
                x="42.616795"
                y="-36.756042"
                id="tspan2066"
-               style="font-size:2.82222223px;stroke-width:0.26458332">85,47#</tspan></text>
+               style="font-size:2.82222223px;stroke-width:0.26458332">85.47#</tspan></text>
         </g>
         <text
            font-size="11.28888893"
@@ -7415,7 +7415,7 @@
              x="64.825005"
              y="-27.88448"
              id="tspan2080"
-             style="font-size:2.11666656px;stroke-width:0.26458332">0,82</tspan></text>
+             style="font-size:2.11666656px;stroke-width:0.26458332">0.82</tspan></text>
         <text
            font-size="2.82222223"
            line-height="1.25"
@@ -7444,7 +7444,7 @@
              x="53.087894"
              y="-16.217529"
              id="tspan2090"
-             style="fill:#0000ff;stroke-width:0.26458332">39,3</tspan></text>
+             style="fill:#0000ff;stroke-width:0.26458332">39.3</tspan></text>
         <text
            font-size="2.82222223"
            line-height="1.25"
@@ -7468,7 +7468,7 @@
              x="53.015549"
              y="-10.424934"
              id="tspan2098"
-             style="stroke-width:0.26458332">1,53</tspan></text>
+             style="stroke-width:0.26458332">1.53</tspan></text>
         <g
            font-size="10.58333302"
            id="g2442"
@@ -8727,7 +8727,7 @@
          x="39.37204"
          y="176.2175"
          id="tspan2512"
-         style="font-size:2.11666656px;stroke-width:0.26458332">0,70</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">0.70</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -8782,7 +8782,7 @@
          x="28.393593"
          y="193.68837"
          id="tspan2530"
-         style="stroke-width:0.26458332">2,8</tspan></text>
+         style="stroke-width:0.26458332">2.8</tspan></text>
     <text
        font-size="10.58333302"
        letter-spacing="0"
@@ -8950,7 +8950,7 @@
          x="76.346092"
          y="44.62019"
          id="tspan2580"
-         style="font-size:2.82222223px;stroke-width:0.26458332">44,96</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">44.96</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -8996,7 +8996,7 @@
          x="98.236519"
          y="53.44426"
          id="tspan2592"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,36</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.36</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -9054,7 +9054,7 @@
          x="86.590172"
          y="70.951309"
          id="tspan2612"
-         style="stroke-width:0.26458332">2,99</tspan></text>
+         style="stroke-width:0.26458332">2.99</tspan></text>
     <path
        d="m 74.93161,77.786789 v 40.000141 h 28.49958 V 77.786789 Z m 0.43305,4.312396 h 27.63348 V 117.35594 H 75.36466 Z"
        id="path2616"
@@ -9136,7 +9136,7 @@
          x="76.23262"
          y="85.294701"
          id="tspan2636"
-         style="font-size:2.82222223px;stroke-width:0.26458332">88,91</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">88.91</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -9182,7 +9182,7 @@
          x="98.265457"
          y="94.183929"
          id="tspan2648"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,22</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.22</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -9241,7 +9241,7 @@
          x="86.648567"
          y="111.62582"
          id="tspan2668"
-         style="stroke-width:0.26458332">4,47</tspan></text>
+         style="stroke-width:0.26458332">4.47</tspan></text>
     <g
        transform="translate(-1.5987492,167.32642)"
        id="g2676">
@@ -9407,7 +9407,7 @@
          x="105.97984"
          y="44.62019"
          id="tspan2720"
-         style="font-size:2.82222223px;stroke-width:0.26458332">47,87</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">47.87</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -9453,7 +9453,7 @@
          x="127.87983"
          y="53.44426"
          id="tspan2732"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,54</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.54</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -9511,7 +9511,7 @@
          x="116.482"
          y="70.951309"
          id="tspan2752"
-         style="stroke-width:0.26458332">4,51</tspan></text>
+         style="stroke-width:0.26458332">4.51</tspan></text>
     <path
        d="m 106.10043,65.753799 h 3.29741 v 3.297407 h -3.29741 z"
        id="path2756"
@@ -9634,7 +9634,7 @@
          x="105.8696"
          y="85.366058"
          id="tspan2788"
-         style="font-size:2.82222223px;stroke-width:0.26458332">91,22#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">91.22#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -9680,7 +9680,7 @@
          x="127.98718"
          y="94.183929"
          id="tspan2800"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,33</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.33</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -9738,7 +9738,7 @@
          x="116.24046"
          y="111.69714"
          id="tspan2820"
-         style="stroke-width:0.26458332">6,52</tspan></text>
+         style="stroke-width:0.26458332">6.52</tspan></text>
     <path
        d="m 106.10014,106.50734 h 3.29741 v 3.29741 h -3.29741 z"
        id="path2824"
@@ -9865,7 +9865,7 @@
          x="105.68494"
          y="126.31235"
          id="tspan2858"
-         style="font-size:2.82222223px;stroke-width:0.26458332">178,5</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">178.5</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -9911,7 +9911,7 @@
          x="127.8943"
          y="135.1458"
          id="tspan2870"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -9972,7 +9972,7 @@
          x="115.5685"
          y="152.6431"
          id="tspan2892"
-         style="stroke-width:0.26458332">13,31</tspan></text>
+         style="stroke-width:0.26458332">13.31</tspan></text>
     <path
        d="m 106.08344,147.45358 h 3.29741 v 3.29741 h -3.29741 z"
        id="path2896"
@@ -10118,7 +10118,7 @@
          x="135.40662"
          y="44.62019"
          id="tspan2936"
-         style="font-size:2.82222223px;stroke-width:0.26458332">50,94</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">50.94</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -10164,7 +10164,7 @@
          x="157.57455"
          y="53.44426"
          id="tspan2948"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,63</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.63</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -10223,7 +10223,7 @@
          x="145.84474"
          y="70.951309"
          id="tspan2968"
-         style="stroke-width:0.26458332">6,00</tspan></text>
+         style="stroke-width:0.26458332">6.00</tspan></text>
     <path
        d="m 135.73392,65.753799 h 3.29741 v 3.297407 h -3.29741 z"
        id="path2972"
@@ -10365,7 +10365,7 @@
          x="135.50308"
          y="85.366058"
          id="tspan3010"
-         style="font-size:2.82222223px;stroke-width:0.26458332">92,91</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">92.91</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -10411,7 +10411,7 @@
          x="157.50531"
          y="94.183929"
          id="tspan3022"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,60</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.60</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -10471,7 +10471,7 @@
          x="145.85774"
          y="111.69714"
          id="tspan3042"
-         style="stroke-width:0.26458332">8,57</tspan></text>
+         style="stroke-width:0.26458332">8.57</tspan></text>
     <path
        d="m 135.7326,106.49973 h 3.29741 v 3.29741 h -3.29741 z"
        id="path3046"
@@ -10638,7 +10638,7 @@
          x="135.31842"
          y="126.29564"
          id="tspan3092"
-         style="font-size:2.82222223px;stroke-width:0.26458332">180,9</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">180.9</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -10684,7 +10684,7 @@
          x="157.50531"
          y="135.1458"
          id="tspan3104"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,50</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.50</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -10748,7 +10748,7 @@
          x="145.03966"
          y="152.62639"
          id="tspan3126"
-         style="stroke-width:0.26458332">16,69</tspan></text>
+         style="stroke-width:0.26458332">16.69</tspan></text>
     <path
        d="m 135.71663,147.43687 h 3.29741 v 3.29741 h -3.29741 z"
        id="path3130"
@@ -11027,7 +11027,7 @@
          x="165.03981"
          y="44.62019"
          id="tspan3210"
-         style="font-size:2.82222223px;stroke-width:0.26458332">52,00</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">52.00</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -11073,7 +11073,7 @@
          x="187.13707"
          y="53.44426"
          id="tspan3222"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,66</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.66</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -11133,7 +11133,7 @@
          x="175.49823"
          y="70.951309"
          id="tspan3242"
-         style="stroke-width:0.26458332">7,19</tspan></text>
+         style="stroke-width:0.26458332">7.19</tspan></text>
     <path
        d="m 165.36711,65.753799 h 3.29741 v 3.297407 h -3.29741 z"
        id="path3246"
@@ -11276,7 +11276,7 @@
          x="165.13628"
          y="85.366058"
          id="tspan3284"
-         style="font-size:2.82222223px;stroke-width:0.26458332">95,96(2)#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">95.96(2)#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -11322,7 +11322,7 @@
          x="187.13707"
          y="94.183929"
          id="tspan3296"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,16</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.16</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -11382,7 +11382,7 @@
          x="174.62862"
          y="111.69714"
          id="tspan3316"
-         style="stroke-width:0.26458332">10,28</tspan></text>
+         style="stroke-width:0.26458332">10.28</tspan></text>
     <path
        d="m 165.36627,106.50734 h 3.29741 v 3.29741 h -3.29741 z"
        id="path3320"
@@ -11629,7 +11629,7 @@
          x="164.95161"
          y="126.25752"
          id="tspan3390"
-         style="font-size:2.82222223px;stroke-width:0.26458332">183,8</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">183.8</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -11675,7 +11675,7 @@
          x="187.13913"
          y="135.1458"
          id="tspan3402"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,36</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.36</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -11736,7 +11736,7 @@
          x="174.68889"
          y="152.58864"
          id="tspan3424"
-         style="stroke-width:0.26458332">19,25</tspan></text>
+         style="stroke-width:0.26458332">19.25</tspan></text>
     <path
        d="m 163.82959,159.75937 v 40.00036 h 28.49971 v -40.00036 z m 0.43305,4.31242 h 27.63361 v 35.25696 h -27.63361 z"
        id="path3428"
@@ -11955,7 +11955,7 @@
          x="194.67343"
          y="44.62019"
          id="tspan3490"
-         style="font-size:2.82222223px;stroke-width:0.26458332">54,94</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">54.94</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -12001,7 +12001,7 @@
          x="216.93011"
          y="53.44426"
          id="tspan3502"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,55</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.55</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -12061,7 +12061,7 @@
          x="205.32468"
          y="70.951309"
          id="tspan3522"
-         style="stroke-width:0.26458332">7,21</tspan></text>
+         style="stroke-width:0.26458332">7.21</tspan></text>
     <path
        d="m 195.00073,66.353859 h 3.29741 v 3.297407 h -3.29741 z"
        id="path3526"
@@ -12285,7 +12285,7 @@
          x="216.87741"
          y="94.183929"
          id="tspan3586"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,90</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.90</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -12345,7 +12345,7 @@
          x="205.09116"
          y="111.69714"
          id="tspan3606"
-         style="stroke-width:0.26458332">11,5</tspan></text>
+         style="stroke-width:0.26458332">11.5</tspan></text>
     <path
        d="m 194.99921,106.50734 h 3.29741 v 3.29741 h -3.29741 z"
        id="path3610"
@@ -12572,7 +12572,7 @@
          x="194.58524"
          y="126.25752"
          id="tspan3674"
-         style="font-size:2.82222223px;stroke-width:0.26458332">186,2</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">186.2</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -12618,7 +12618,7 @@
          x="216.87741"
          y="135.1458"
          id="tspan3686"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,90</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.90</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -12680,7 +12680,7 @@
          x="204.38718"
          y="152.58864"
          id="tspan3708"
-         style="stroke-width:0.26458332">21,02</tspan></text>
+         style="stroke-width:0.26458332">21.02</tspan></text>
     <path
        d="m 223.09307,37.106375 v 40.00014 h 28.49971 v -40.00014 z m 0.43305,4.312396 h 27.63361 v 35.256761 h -27.63361 z"
        id="path3712"
@@ -12761,7 +12761,7 @@
          x="224.29791"
          y="44.62019"
          id="tspan3732"
-         style="font-size:2.82222223px;stroke-width:0.26458332">55,85</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">55.85</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -12807,7 +12807,7 @@
          x="246.46649"
          y="53.44426"
          id="tspan3744"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,83</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.83</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -12867,7 +12867,7 @@
          x="233.97499"
          y="70.951309"
          id="tspan3764"
-         style="stroke-width:0.26458332">7,874</tspan></text>
+         style="stroke-width:0.26458332">7.874</tspan></text>
     <path
        d="m 224.62521,65.753799 h 3.29741 v 3.297407 h -3.29741 z"
        id="path3768"
@@ -13030,7 +13030,7 @@
          x="224.20972"
          y="85.366058"
          id="tspan3812"
-         style="font-size:2.82222223px;stroke-width:0.26458332">101,1#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">101.1#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -13076,7 +13076,7 @@
          x="246.39725"
          y="94.183929"
          id="tspan3824"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.20</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -13136,7 +13136,7 @@
          x="233.93079"
          y="111.69714"
          id="tspan3844"
-         style="stroke-width:0.26458332">12,45</tspan></text>
+         style="stroke-width:0.26458332">12.45</tspan></text>
     <path
        d="m 224.63214,106.50734 h 3.29741 v 3.29741 h -3.29741 z"
        id="path3848"
@@ -13385,7 +13385,7 @@
          x="224.20972"
          y="126.25752"
          id="tspan3918"
-         style="font-size:2.82222223px;stroke-width:0.26458332">190,2</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">190.2</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -13431,7 +13431,7 @@
          x="246.39725"
          y="135.1458"
          id="tspan3930"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.20</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -13493,7 +13493,7 @@
          x="234.03325"
          y="152.58864"
          id="tspan3952"
-         style="stroke-width:0.26458332">22,59</tspan></text>
+         style="stroke-width:0.26458332">22.59</tspan></text>
     <path
        d="m 223.09663,159.75937 v 40.00036 h 28.49971 v -40.00036 z m 0.43305,4.31242 h 27.63361 v 35.25696 h -27.63361 z"
        id="path3956"
@@ -13688,7 +13688,7 @@
          x="253.93144"
          y="44.62019"
          id="tspan4010"
-         style="font-size:2.82222223px;stroke-width:0.26458332">58,93</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">58.93</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -13734,7 +13734,7 @@
          x="276.14444"
          y="53.44426"
          id="tspan4022"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,88</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.88</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -13794,7 +13794,7 @@
          x="265.15607"
          y="70.951309"
          id="tspan4042"
-         style="stroke-width:0.26458332">8,9</tspan></text>
+         style="stroke-width:0.26458332">8.9</tspan></text>
     <path
        d="m 254.25874,65.753799 h 3.29741 v 3.297407 h -3.29741 z"
        id="path4046"
@@ -13897,7 +13897,7 @@
          x="253.84325"
          y="85.366058"
          id="tspan4072"
-         style="font-size:2.82222223px;stroke-width:0.26458332">102,9</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">102.9</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -13943,7 +13943,7 @@
          x="276.14444"
          y="94.183929"
          id="tspan4084"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,28</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.28</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -14003,7 +14003,7 @@
          x="263.76517"
          y="111.69714"
          id="tspan4104"
-         style="stroke-width:0.26458332">12,41</tspan></text>
+         style="stroke-width:0.26458332">12.41</tspan></text>
     <path
        d="m 254.26508,106.50734 h 3.29741 v 3.29741 h -3.29741 z"
        id="path4108"
@@ -14213,7 +14213,7 @@
          x="253.84325"
          y="126.25752"
          id="tspan4166"
-         style="font-size:2.82222223px;stroke-width:0.26458332">192,2</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">192.2</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -14259,7 +14259,7 @@
          x="276.14444"
          y="135.1458"
          id="tspan4178"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.20</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -14321,7 +14321,7 @@
          x="263.63492"
          y="152.58864"
          id="tspan4200"
-         style="stroke-width:0.26458332">22,56</tspan></text>
+         style="stroke-width:0.26458332">22.56</tspan></text>
     <path
        d="m 252.73015,159.75937 v 40.00036 h 28.49971 v -40.00036 z m 0.43305,4.31242 h 27.63361 v 35.25696 H 253.1632 Z"
        id="path4204"
@@ -14516,7 +14516,7 @@
          x="283.56494"
          y="44.62019"
          id="tspan4258"
-         style="font-size:2.82222223px;stroke-width:0.26458332">58,69</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">58.69</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -14562,7 +14562,7 @@
          x="305.97156"
          y="53.44426"
          id="tspan4270"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,91</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.91</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -14622,7 +14622,7 @@
          x="294.2218"
          y="70.951309"
          id="tspan4290"
-         style="stroke-width:0.26458332">8,91</tspan></text>
+         style="stroke-width:0.26458332">8.91</tspan></text>
     <path
        d="m 283.89224,65.753799 h 3.29741 v 3.297407 h -3.29741 z"
        id="path4294"
@@ -14724,7 +14724,7 @@
          x="283.47675"
          y="85.366058"
          id="tspan4320"
-         style="font-size:2.82222223px;stroke-width:0.26458332">106,4#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">106.4#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -14770,7 +14770,7 @@
          x="305.66562"
          y="94.183929"
          id="tspan4332"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.20</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -14801,7 +14801,7 @@
          x="292.41302"
          y="105.90456"
          id="tspan4342"
-         style="fill:#0000ff;stroke-width:0.26458332">1554,9</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">1554.9</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -14826,7 +14826,7 @@
          x="293.1806"
          y="111.69714"
          id="tspan4350"
-         style="stroke-width:0.26458332">12,02</tspan></text>
+         style="stroke-width:0.26458332">12.02</tspan></text>
     <path
        d="m 283.89877,106.50734 h 3.29741 v 3.29741 h -3.29741 z"
        id="path4354"
@@ -14975,7 +14975,7 @@
          x="283.47675"
          y="126.25752"
          id="tspan4394"
-         style="font-size:2.82222223px;stroke-width:0.26458332">195,1</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">195.1</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -15021,7 +15021,7 @@
          x="305.66562"
          y="135.1458"
          id="tspan4406"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,28</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.28</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -15059,7 +15059,7 @@
          x="292.4733"
          y="146.79604"
          id="tspan4420"
-         style="fill:#0000ff;stroke-width:0.26458332">1768,3</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">1768.3</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -15084,7 +15084,7 @@
          x="293.30496"
          y="152.58864"
          id="tspan4428"
-         style="stroke-width:0.26458332">21,45</tspan></text>
+         style="stroke-width:0.26458332">21.45</tspan></text>
     <g
        transform="translate(208.6663,24.795038)"
        id="g4438">
@@ -15189,7 +15189,7 @@
          x="313.27148"
          y="44.62019"
          id="tspan4460"
-         style="font-size:2.82222223px;stroke-width:0.26458332">63,55</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">63.55</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -15235,7 +15235,7 @@
          x="335.41782"
          y="53.44426"
          id="tspan4472"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,90</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.90</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -15270,7 +15270,7 @@
          x="322.03357"
          y="65.158707"
          id="tspan4484"
-         style="fill:#0000ff;stroke-width:0.26458332">1084,6</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">1084.6</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -15295,7 +15295,7 @@
          x="323.64999"
          y="70.951309"
          id="tspan4492"
-         style="stroke-width:0.26458332">8,96</tspan></text>
+         style="stroke-width:0.26458332">8.96</tspan></text>
     <path
        d="m 313.52576,65.753799 h 3.29741 v 3.297407 h -3.29741 z"
        id="path4496"
@@ -15417,7 +15417,7 @@
          x="313.11026"
          y="85.366058"
          id="tspan4528"
-         style="font-size:2.82222223px;stroke-width:0.26458332">107,9#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">107.9#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -15463,7 +15463,7 @@
          x="335.48706"
          y="94.183929"
          id="tspan4540"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,93</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.93</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -15498,7 +15498,7 @@
          x="322.88852"
          y="105.90456"
          id="tspan4552"
-         style="fill:#0000ff;stroke-width:0.26458332">961,8</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">961.8</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -15523,7 +15523,7 @@
          x="322.80722"
          y="111.69714"
          id="tspan4560"
-         style="stroke-width:0.26458332">10,49</tspan></text>
+         style="stroke-width:0.26458332">10.49</tspan></text>
     <path
        d="m 313.53256,106.50734 h 3.29741 v 3.29741 h -3.29741 z"
        id="path4564"
@@ -15671,7 +15671,7 @@
          x="313.11026"
          y="126.25752"
          id="tspan4604"
-         style="font-size:2.82222223px;stroke-width:0.26458332">197,0</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">197.0</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -15717,7 +15717,7 @@
          x="335.40335"
          y="135.1458"
          id="tspan4616"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,54</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.54</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -15755,7 +15755,7 @@
          x="322.07858"
          y="146.79604"
          id="tspan4630"
-         style="fill:#0000ff;stroke-width:0.26458332">1064,2</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">1064.2</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -15780,7 +15780,7 @@
          x="322.82135"
          y="152.58864"
          id="tspan4638"
-         style="stroke-width:0.26458332">19,30</tspan></text>
+         style="stroke-width:0.26458332">19.30</tspan></text>
     <path
        d="m 311.99719,159.75937 v 40.00036 h 28.49971 v -40.00036 z m 0.43305,4.31242 h 27.63361 v 35.25696 h -27.63361 z"
        id="path4642"
@@ -15977,7 +15977,7 @@
          x="342.90503"
          y="44.62019"
          id="tspan4696"
-         style="font-size:2.82222223px;stroke-width:0.26458332">65,38(2)</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">65.38(2)</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -16023,7 +16023,7 @@
          x="364.98407"
          y="53.44426"
          id="tspan4708"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,65</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.65</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -16058,7 +16058,7 @@
          x="352.61172"
          y="65.158707"
          id="tspan4720"
-         style="fill:#0000ff;stroke-width:0.26458332">419,5</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">419.5</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -16083,7 +16083,7 @@
          x="353.26974"
          y="70.951309"
          id="tspan4728"
-         style="stroke-width:0.26458332">7,14</tspan></text>
+         style="stroke-width:0.26458332">7.14</tspan></text>
     <path
        d="m 341.62771,77.768713 v 40.000237 h 28.49971 V 77.768713 Z m 0.43305,4.312396 h 27.63361 v 35.256861 h -27.63361 z"
        id="path4732"
@@ -16165,7 +16165,7 @@
          x="342.7438"
          y="85.366058"
          id="tspan4752"
-         style="font-size:2.82222223px;stroke-width:0.26458332">112,4#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">112.4#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -16211,7 +16211,7 @@
          x="364.94791"
          y="94.183929"
          id="tspan4764"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,69</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.69</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -16271,7 +16271,7 @@
          x="353.32062"
          y="111.69714"
          id="tspan4784"
-         style="stroke-width:0.26458332">8,65</tspan></text>
+         style="stroke-width:0.26458332">8.65</tspan></text>
     <path
        d="m 341.65293,118.68769 v 40.00014 h 28.49957 v -40.00014 z m 0.43305,4.3124 h 27.63347 v 35.25676 h -27.63347 z"
        id="path4788"
@@ -16378,7 +16378,7 @@
          x="342.90778"
          y="126.25752"
          id="tspan4816"
-         style="font-size:2.82222223px;stroke-width:0.26458332">200,6</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">200.6</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -16424,7 +16424,7 @@
          x="364.93137"
          y="135.1458"
          id="tspan4828"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,00</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.00</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -16462,7 +16462,7 @@
          x="352.70844"
          y="146.79604"
          id="tspan4842"
-         style="fill:#0000ff;stroke-width:0.26458332">-38,8</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-38.8</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -16473,7 +16473,7 @@
          x="352.53409"
          y="149.76917"
          id="tspan4846"
-         style="fill:#ff0000;stroke-width:0.26458332">356,7</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">356.7</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -16487,7 +16487,7 @@
          x="352.50104"
          y="152.58864"
          id="tspan4850"
-         style="stroke-width:0.26458332">13,53</tspan></text>
+         style="stroke-width:0.26458332">13.53</tspan></text>
     <path
        d="m 371.31346,37.106375 v 40.000142 h 28.49958 V 37.106375 Z m 0.43305,4.312396 h 27.63348 v 35.256761 h -27.63348 z"
        id="path4854"
@@ -16569,7 +16569,7 @@
          x="372.49454"
          y="44.626114"
          id="tspan4874"
-         style="font-size:2.82222223px;stroke-width:0.26458332">69,72</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">69.72</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -16615,7 +16615,7 @@
          x="395.00311"
          y="53.44426"
          id="tspan4886"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,81</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.81</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -16654,7 +16654,7 @@
          x="382.95807"
          y="65.164635"
          id="tspan4900"
-         style="fill:#0000ff;stroke-width:0.26458332">29,8</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">29.8</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -16679,7 +16679,7 @@
          x="383.12411"
          y="70.95723"
          id="tspan4908"
-         style="stroke-width:0.26458332">5,91</tspan></text>
+         style="stroke-width:0.26458332">5.91</tspan></text>
     <path
        d="m 371.31346,77.852234 v 40.000236 h 28.49958 V 77.852234 Z m 0.43305,4.312396 h 27.63348 v 35.25686 h -27.63348 z"
        id="path4912"
@@ -16761,7 +16761,7 @@
          x="372.33331"
          y="85.371986"
          id="tspan4932"
-         style="font-size:2.82222223px;stroke-width:0.26458332">114,8</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">114.8</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -16807,7 +16807,7 @@
          x="394.69717"
          y="94.183929"
          id="tspan4944"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,78</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.78</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -16846,7 +16846,7 @@
          x="382.11401"
          y="105.91051"
          id="tspan4958"
-         style="fill:#0000ff;stroke-width:0.26458332">156,6</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">156.6</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -16871,7 +16871,7 @@
          x="383.16959"
          y="111.70309"
          id="tspan4966"
-         style="stroke-width:0.26458332">7,31</tspan></text>
+         style="stroke-width:0.26458332">7.31</tspan></text>
     <path
        d="m 372.74878,106.50564 h 3.29741 v 3.29741 h -3.29741 z"
        id="path4970"
@@ -16977,7 +16977,7 @@
          x="372.37189"
          y="126.11782"
          id="tspan4998"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[204,3 - 204,4]</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[204.3 - 204.4]</tspan></text>
     <text
        font-size="10.58333302"
        letter-spacing="0"
@@ -17023,7 +17023,7 @@
          x="394.72406"
          y="135.1458"
          id="tspan5010"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,62</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.62</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -17091,7 +17091,7 @@
          x="382.15054"
          y="152.44859"
          id="tspan5034"
-         style="stroke-width:0.26458332">11,85</tspan></text>
+         style="stroke-width:0.26458332">11.85</tspan></text>
     <path
        d="m 372.7453,147.25912 h 3.29741 v 3.29741 h -3.29741 z"
        id="path5038"
@@ -17313,7 +17313,7 @@
          x="372.49728"
          y="3.8802595"
          id="tspan5100"
-         style="font-size:2.82222223px;stroke-width:0.26458332">26,98</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">26.98</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -17359,7 +17359,7 @@
          x="395.00311"
          y="12.802814"
          id="tspan5112"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,61</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.61</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -17394,7 +17394,7 @@
          x="382.24219"
          y="24.418762"
          id="tspan5124"
-         style="fill:#0000ff;stroke-width:0.26458332">660,3</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">660.3</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -17419,7 +17419,7 @@
          x="382.95807"
          y="30.211357"
          id="tspan5132"
-         style="stroke-width:0.26458332">2,70</tspan></text>
+         style="stroke-width:0.26458332">2.70</tspan></text>
     <path
        d="m 371.31346,-44.385331 v 40.0001386 h 28.49958 V -44.385331 Z m 0.43305,4.312396 h 27.63348 v 35.2567575 h -27.63348 z"
        id="path5136"
@@ -17501,7 +17501,7 @@
          x="372.37189"
          y="-36.865589"
          id="tspan5156"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[10,80 - 10,83]</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[10.80 - 10.83]</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -17547,7 +17547,7 @@
          x="394.68271"
          y="-27.933453"
          id="tspan5168"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,04</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.04</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -17607,7 +17607,7 @@
          x="382.95807"
          y="-10.534481"
          id="tspan5188"
-         style="stroke-width:0.26458332">2,08</tspan></text>
+         style="stroke-width:0.26458332">2.08</tspan></text>
     <path
        d="m 372.74878,-15.731993 h 3.29741 v 3.297407 h -3.29741 z"
        id="path5192"
@@ -17709,7 +17709,7 @@
          x="402.14236"
          y="-36.865589"
          id="tspan5218"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[12,00 - 12,02]</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[12.00 - 12.02]</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -17755,7 +17755,7 @@
          x="424.38342"
          y="-27.933453"
          id="tspan5230"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,55</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.55</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -17804,7 +17804,7 @@
          x="406.97403"
          y="-10.534481"
          id="tspan5246"
-         style="stroke-width:0.26458332">2,27 graphite</tspan></text>
+         style="stroke-width:0.26458332">2.27 graphite</tspan></text>
     <path
        d="m 402.51926,-15.731561 h 3.29741 v 3.297407 h -3.29741 z"
        id="path5250"
@@ -17926,7 +17926,7 @@
          x="402.14236"
          y="3.8802595"
          id="tspan5282"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[28,08 - 28,09]</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[28.08 - 28.09]</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -17972,7 +17972,7 @@
          x="424.33072"
          y="12.802814"
          id="tspan5294"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,90</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.90</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -18032,7 +18032,7 @@
          x="412.64883"
          y="30.211357"
          id="tspan5314"
-         style="stroke-width:0.26458332">2,33</tspan></text>
+         style="stroke-width:0.26458332">2.33</tspan></text>
     <path
        d="m 402.38257,25.013859 h 3.29741 v 3.297407 h -3.29741 z"
        id="path5318"
@@ -18155,7 +18155,7 @@
          x="402.28293"
          y="44.626114"
          id="tspan5350"
-         style="font-size:2.82222223px;stroke-width:0.26458332">72,63</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">72.63</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -18201,7 +18201,7 @@
          x="424.63663"
          y="53.44426"
          id="tspan5362"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,01</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.01</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -18240,7 +18240,7 @@
          x="411.88742"
          y="65.164635"
          id="tspan5376"
-         style="fill:#0000ff;stroke-width:0.26458332">938,3</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">938.3</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -18265,7 +18265,7 @@
          x="412.57159"
          y="70.95723"
          id="tspan5384"
-         style="stroke-width:0.26458332">5,32</tspan></text>
+         style="stroke-width:0.26458332">5.32</tspan></text>
     <path
        d="m 402.38257,65.759705 h 3.29741 v 3.297407 h -3.29741 z"
        id="path5388"
@@ -18367,7 +18367,7 @@
          x="402.10379"
          y="85.371986"
          id="tspan5414"
-         style="font-size:2.82222223px;stroke-width:0.26458332">118,7#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">118.7#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -18413,7 +18413,7 @@
          x="424.32864"
          y="94.183929"
          id="tspan5426"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,96</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.96</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -18452,7 +18452,7 @@
          x="411.84195"
          y="105.91051"
          id="tspan5440"
-         style="fill:#0000ff;stroke-width:0.26458332">231,9</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">231.9</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -18477,7 +18477,7 @@
          x="408.83368"
          y="111.70309"
          id="tspan5448"
-         style="stroke-width:0.26458332">7,27 white</tspan></text>
+         style="stroke-width:0.26458332">7.27 white</tspan></text>
     <path
        d="m 402.38232,106.50564 h 3.29741 v 3.29741 h -3.29741 z"
        id="path5452"
@@ -18604,7 +18604,7 @@
          x="402.26776"
          y="126.11782"
          id="tspan5486"
-         style="font-size:2.82222223px;stroke-width:0.26458332">207,2</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">207.2</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -18650,7 +18650,7 @@
          x="424.33072"
          y="135.1458"
          id="tspan5498"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,87</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.87</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -18693,7 +18693,7 @@
          x="411.86749"
          y="146.65604"
          id="tspan5514"
-         style="fill:#0000ff;stroke-width:0.26458332">327,5</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">327.5</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -18718,7 +18718,7 @@
          x="411.75037"
          y="152.44859"
          id="tspan5522"
-         style="stroke-width:0.26458332">11,34</tspan></text>
+         style="stroke-width:0.26458332">11.34</tspan></text>
     <path
        d="m 402.38232,147.25175 h 3.29741 v 3.29741 h -3.29741 z"
        id="path5526"
@@ -18959,7 +18959,7 @@
          x="431.63895"
          y="-36.865589"
          id="tspan5594"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[14,00 - 14,01]</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[14.00 - 14.01]</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -19005,7 +19005,7 @@
          x="453.94974"
          y="-27.933453"
          id="tspan5606"
-         style="font-size:2.11666656px;stroke-width:0.26458332">3,04</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">3.04</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -19040,7 +19040,7 @@
          x="440.87531"
          y="-16.327066"
          id="tspan5618"
-         style="fill:#0000ff;stroke-width:0.26458332">-210,0</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-210.0</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -19051,7 +19051,7 @@
          x="440.87531"
          y="-13.353948"
          id="tspan5622"
-         style="fill:#ff0000;stroke-width:0.26458332">-195,8</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-195.8</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -19248,7 +19248,7 @@
          x="431.74506"
          y="3.8802595"
          id="tspan5680"
-         style="font-size:2.82222223px;stroke-width:0.26458332">30,97</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">30.97</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -19294,7 +19294,7 @@
          x="453.98074"
          y="12.802814"
          id="tspan5692"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,19</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.19</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -19329,7 +19329,7 @@
          x="442.50558"
          y="24.418762"
          id="tspan5704"
-         style="fill:#0000ff;stroke-width:0.26458332">44,1</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">44.1</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -19354,7 +19354,7 @@
          x="438.37762"
          y="30.211357"
          id="tspan5712"
-         style="stroke-width:0.26458332">1,82 white</tspan></text>
+         style="stroke-width:0.26458332">1.82 white</tspan></text>
     <path
        d="m 432.01584,25.024996 h 3.29741 v 3.297407 h -3.29741 z"
        id="path5716"
@@ -19516,7 +19516,7 @@
          x="431.77951"
          y="44.626114"
          id="tspan5760"
-         style="font-size:2.82222223px;stroke-width:0.26458332">74,92</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">74.92</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -19562,7 +19562,7 @@
          x="453.9642"
          y="53.44426"
          id="tspan5772"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,18</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.18</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -19616,7 +19616,7 @@
          x="442.20514"
          y="70.95723"
          id="tspan5790"
-         style="stroke-width:0.26458332">5,72</tspan></text>
+         style="stroke-width:0.26458332">5.72</tspan></text>
     <path
        d="m 432.01636,65.759705 h 3.29741 v 3.297407 h -3.29741 z"
        id="path5794"
@@ -19738,7 +19738,7 @@
          x="431.60037"
          y="85.371986"
          id="tspan5826"
-         style="font-size:2.82222223px;stroke-width:0.26458332">121,8#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">121.8#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -19784,7 +19784,7 @@
          x="454.01694"
          y="94.183929"
          id="tspan5838"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,05</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.05</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -19823,7 +19823,7 @@
          x="441.47275"
          y="105.91051"
          id="tspan5852"
-         style="fill:#0000ff;stroke-width:0.26458332">630,6</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">630.6</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -19848,7 +19848,7 @@
          x="442.2348"
          y="111.70309"
          id="tspan5860"
-         style="stroke-width:0.26458332">6,70</tspan></text>
+         style="stroke-width:0.26458332">6.70</tspan></text>
     <path
        d="m 432.01636,106.50558 h 3.29741 v 3.29741 h -3.29741 z"
        id="path5864"
@@ -19975,7 +19975,7 @@
          x="431.76434"
          y="126.11782"
          id="tspan5898"
-         style="font-size:2.82222223px;stroke-width:0.26458332">209,0</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">209.0</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -20021,7 +20021,7 @@
          x="453.99109"
          y="135.1458"
          id="tspan5910"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,02</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.02</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -20064,7 +20064,7 @@
          x="441.50882"
          y="146.65604"
          id="tspan5926"
-         style="fill:#0000ff;stroke-width:0.26458332">271,5</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">271.5</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -20089,7 +20089,7 @@
          x="442.24472"
          y="152.44859"
          id="tspan5934"
-         style="stroke-width:0.26458332">9,78</tspan></text>
+         style="stroke-width:0.26458332">9.78</tspan></text>
     <path
        d="m 432.01584,147.25175 h 3.29741 v 3.29741 h -3.29741 z"
        id="path5938"
@@ -20336,7 +20336,7 @@
          x="461.40854"
          y="-36.865589"
          id="tspan6006"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[15,99 - 16,00] </tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[15.99 - 16.00] </tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -20382,7 +20382,7 @@
          x="483.71936"
          y="-27.933453"
          id="tspan6018"
-         style="font-size:2.11666656px;stroke-width:0.26458332">3,44</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">3.44</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -20417,7 +20417,7 @@
          x="470.65588"
          y="-16.327066"
          id="tspan6030"
-         style="fill:#0000ff;stroke-width:0.26458332">-218,8</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-218.8</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -20428,7 +20428,7 @@
          x="470.65588"
          y="-13.353948"
          id="tspan6034"
-         style="fill:#ff0000;stroke-width:0.26458332">-183,0</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-183.0</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -20586,7 +20586,7 @@
          x="461.40854"
          y="3.8802595"
          id="tspan6080"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[32,05 - 32,08]</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[32.05 - 32.08]</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -20632,7 +20632,7 @@
          x="483.73383"
          y="12.802814"
          id="tspan6092"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,58</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.58</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -20667,7 +20667,7 @@
          x="471.03387"
          y="24.418762"
          id="tspan6104"
-         style="fill:#0000ff;stroke-width:0.26458332">115,2</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">115.2</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -20678,7 +20678,7 @@
          x="471.16202"
          y="27.391884"
          id="tspan6108"
-         style="fill:#ff0000;stroke-width:0.26458332">444,6</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">444.6</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -20692,7 +20692,7 @@
          x="468.10553"
          y="30.211357"
          id="tspan6112"
-         style="stroke-width:0.26458332">2,07 alpha</tspan></text>
+         style="stroke-width:0.26458332">2.07 alpha</tspan></text>
     <path
        d="m 461.64935,25.013855 h 3.29741 v 3.297407 h -3.29741 z"
        id="path6116"
@@ -20886,7 +20886,7 @@
          x="461.5491"
          y="44.626114"
          id="tspan6170"
-         style="font-size:2.82222223px;stroke-width:0.26458332">78,96(3)</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">78.96(3)</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -20932,7 +20932,7 @@
          x="483.78653"
          y="53.44426"
          id="tspan6182"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,55</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.55</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -20983,7 +20983,7 @@
          x="471.1076"
          y="68.137756"
          id="tspan6200"
-         style="fill:#ff0000;stroke-width:0.26458332">684,9</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">684.9</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -20997,7 +20997,7 @@
          x="468.76218"
          y="70.95723"
          id="tspan6204"
-         style="stroke-width:0.26458332">4,81 gray</tspan></text>
+         style="stroke-width:0.26458332">4.81 gray</tspan></text>
     <path
        d="m 461.64935,65.759712 h 3.29741 v 3.297407 h -3.29741 z"
        id="path6208"
@@ -21140,7 +21140,7 @@
          x="461.36996"
          y="85.371986"
          id="tspan6246"
-         style="font-size:2.82222223px;stroke-width:0.26458332">127,6#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">127.6#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -21186,7 +21186,7 @@
          x="483.59775"
          y="94.183929"
          id="tspan6258"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,10</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.10</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -21225,7 +21225,7 @@
          x="471.19855"
          y="105.91051"
          id="tspan6272"
-         style="fill:#0000ff;stroke-width:0.26458332">449,5</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">449.5</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -21250,7 +21250,7 @@
          x="471.8476"
          y="111.70309"
          id="tspan6280"
-         style="stroke-width:0.26458332">6,24</tspan></text>
+         style="stroke-width:0.26458332">6.24</tspan></text>
     <path
        d="m 461.64935,106.50564 h 3.29741 v 3.29741 h -3.29741 z"
        id="path6284"
@@ -21432,7 +21432,7 @@
          x="483.59775"
          y="135.1458"
          id="tspan6332"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,00</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.00</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -21500,7 +21500,7 @@
          x="468.11588"
          y="152.44859"
          id="tspan6356"
-         style="stroke-width:0.26458332">9,18 alpha</tspan><tspan
+         style="stroke-width:0.26458332">9.18 alpha</tspan><tspan
          x="468.11588"
          y="155.97636"
          id="tspan6358"
@@ -21766,7 +21766,7 @@
          x="491.00345"
          y="-36.865589"
          id="tspan6436"
-         style="font-size:2.82222223px;stroke-width:0.26458332">19,00</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">19.00</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -21812,7 +21812,7 @@
          x="513.2312"
          y="-27.933453"
          id="tspan6448"
-         style="font-size:2.11666656px;stroke-width:0.26458332">3,98</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">3.98</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -21847,7 +21847,7 @@
          x="500.28802"
          y="-16.327066"
          id="tspan6460"
-         style="fill:#0000ff;stroke-width:0.26458332">-219,6</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-219.6</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -21858,7 +21858,7 @@
          x="500.49335"
          y="-13.353948"
          id="tspan6464"
-         style="fill:#ff0000;stroke-width:0.26458332">-188,1</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-188.1</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -21954,7 +21954,7 @@
          x="491.04202"
          y="3.8802595"
          id="tspan6492"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[35,44 - 35,46]</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[35.44 - 35.46]</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -22000,7 +22000,7 @@
          x="513.22913"
          y="12.802814"
          id="tspan6504"
-         style="font-size:2.11666656px;stroke-width:0.26458332">3,16</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">3.16</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -22035,7 +22035,7 @@
          x="500.17749"
          y="24.418762"
          id="tspan6516"
-         style="fill:#0000ff;stroke-width:0.26458332">-101,5</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-101.5</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -22046,7 +22046,7 @@
          x="500.90305"
          y="27.391884"
          id="tspan6520"
-         style="fill:#ff0000;stroke-width:0.26458332">-34,0</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-34.0</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -22304,7 +22304,7 @@
          x="491.04202"
          y="44.626114"
          id="tspan6596"
-         style="font-size:2.82222223px;stroke-width:0.26458332">[79,90 - 79,91]</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">[79.90 - 79.91]</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -22350,7 +22350,7 @@
          x="513.22913"
          y="53.44426"
          id="tspan6608"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,96</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.96</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -22390,7 +22390,7 @@
          x="501.70987"
          y="65.164635"
          id="tspan6622"
-         style="fill:#0000ff;stroke-width:0.26458332">-7,3</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-7.3</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -22401,7 +22401,7 @@
          x="501.45425"
          y="68.137756"
          id="tspan6626"
-         style="fill:#ff0000;stroke-width:0.26458332">58,8</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">58.8</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -22415,7 +22415,7 @@
          x="501.48251"
          y="70.95723"
          id="tspan6630"
-         style="stroke-width:0.26458332">3,10</tspan></text>
+         style="stroke-width:0.26458332">3.10</tspan></text>
     <path
        d="m 491.28287,65.770844 h 3.29741 v 3.297407 h -3.29741 z"
        id="path6634"
@@ -22578,7 +22578,7 @@
          x="491.00345"
          y="85.371986"
          id="tspan6678"
-         style="font-size:2.82222223px;stroke-width:0.26458332">126,9</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">126.9</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -22624,7 +22624,7 @@
          x="513.22913"
          y="94.183929"
          id="tspan6690"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,66</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.66</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -22663,7 +22663,7 @@
          x="500.65637"
          y="105.91051"
          id="tspan6704"
-         style="fill:#0000ff;stroke-width:0.26458332">113,7</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">113.7</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -22674,7 +22674,7 @@
          x="500.69565"
          y="108.88361"
          id="tspan6708"
-         style="fill:#ff0000;stroke-width:0.26458332">184,3</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">184.3</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -22688,7 +22688,7 @@
          x="501.60376"
          y="111.70309"
          id="tspan6712"
-         style="stroke-width:0.26458332">4,93</tspan></text>
+         style="stroke-width:0.26458332">4.93</tspan></text>
     <path
        d="m 491.28287,106.50564 h 3.29741 v 3.29741 h -3.29741 z"
        id="path6716"
@@ -22891,7 +22891,7 @@
          x="513.2312"
          y="135.1458"
          id="tspan6770"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.20</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -22959,7 +22959,7 @@
          x="501.52591"
          y="152.44859"
          id="tspan6794"
-         style="stroke-width:0.26458332">6,35</tspan></text>
+         style="stroke-width:0.26458332">6.35</tspan></text>
     <path
        d="m 491.28287,147.25175 h 3.29741 v 3.29741 h -3.29741 z"
        id="path6798"
@@ -23225,7 +23225,7 @@
          x="520.63483"
          y="-36.854454"
          id="tspan6872"
-         style="font-size:2.82222223px;stroke-width:0.26458332">20,18</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">20.18</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -23291,7 +23291,7 @@
          x="529.74615"
          y="-16.315933"
          id="tspan6892"
-         style="fill:#0000ff;stroke-width:0.26458332">-248,6</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-248.6</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -23302,7 +23302,7 @@
          x="529.74756"
          y="-13.342813"
          id="tspan6896"
-         style="fill:#ff0000;stroke-width:0.26458332">-246,0</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-246.0</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -23387,7 +23387,7 @@
          x="520.76575"
          y="-77.552971"
          id="tspan6920"
-         style="font-size:2.82222223px;stroke-width:0.26458332">4,003</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">4.003</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -23434,7 +23434,7 @@
          x="529.75183"
          y="-57.061699"
          id="tspan6934"
-         style="fill:#0000ff;stroke-width:0.26458332">-272,2</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-272.2</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -23445,7 +23445,7 @@
          x="529.74493"
          y="-54.088577"
          id="tspan6938"
-         style="fill:#ff0000;stroke-width:0.26458332">-268,9</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-268.9</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -23535,7 +23535,7 @@
          x="520.61554"
          y="3.8802595"
          id="tspan6964"
-         style="font-size:2.82222223px;stroke-width:0.26458332">39,95</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">39.95</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -23601,7 +23601,7 @@
          x="529.82312"
          y="24.418762"
          id="tspan6984"
-         style="fill:#0000ff;stroke-width:0.26458332">-189,3</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-189.3</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -23612,7 +23612,7 @@
          x="529.77698"
          y="27.391884"
          id="tspan6988"
-         style="fill:#ff0000;stroke-width:0.26458332">-185,8</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-185.8</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -23728,7 +23728,7 @@
          x="520.66101"
          y="44.626114"
          id="tspan7022"
-         style="font-size:2.82222223px;stroke-width:0.26458332">83,80#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">83.80#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -23799,7 +23799,7 @@
          x="529.82312"
          y="65.164635"
          id="tspan7044"
-         style="fill:#0000ff;stroke-width:0.26458332">-157,3</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-157.3</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -23810,7 +23810,7 @@
          x="529.76733"
          y="68.137756"
          id="tspan7048"
-         style="fill:#ff0000;stroke-width:0.26458332">-153,4</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-153.4</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -23885,7 +23885,7 @@
          x="520.47083"
          y="85.371986"
          id="tspan7070"
-         style="font-size:2.82222223px;stroke-width:0.26458332">131,3#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">131.3#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -23955,7 +23955,7 @@
          x="529.35352"
          y="105.91051"
          id="tspan7092"
-         style="fill:#0000ff;stroke-width:0.26458332">-111,8</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">-111.8</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -23966,7 +23966,7 @@
          x="529.5575"
          y="108.88361"
          id="tspan7096"
-         style="fill:#ff0000;stroke-width:0.26458332">-108,1</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-108.1</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -24121,7 +24121,7 @@
          x="530.54346"
          y="149.62917"
          id="tspan7144"
-         style="fill:#ff0000;stroke-width:0.26458332">-61,7</tspan></text>
+         style="fill:#ff0000;stroke-width:0.26458332">-61.7</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -24375,7 +24375,7 @@
          x="105.68494"
          y="208.08989"
          id="tspan7218"
-         style="font-size:2.82222223px;stroke-width:0.26458332">138,9</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">138.9</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -24482,7 +24482,7 @@
          x="127.8391"
          y="216.97569"
          id="tspan7248"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,10</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.10</tspan></text>
     <path
        d="m 106.08311,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7252"
@@ -24539,7 +24539,7 @@
          x="116.20454"
          y="234.64612"
          id="tspan7266"
-         style="stroke-width:0.26458332">6,16</tspan></text>
+         style="stroke-width:0.26458332">6.16</tspan></text>
     <path
        d="m 104.56255,241.25154 v 40.00036 h 28.49971 v -40.00036 z m 0.43305,4.31242 h 27.63361 v 35.25696 H 104.9956 Z"
        id="path7270"
@@ -24664,7 +24664,7 @@
          x="127.83904"
          y="257.72382"
          id="tspan7302"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,10</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.10</tspan></text>
     <path
        d="m 106.08304,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7306"
@@ -24721,7 +24721,7 @@
          x="115.25861"
          y="275.39197"
          id="tspan7320"
-         style="stroke-width:0.26458332">10,00</tspan></text>
+         style="stroke-width:0.26458332">10.00</tspan></text>
     <path
        d="m 135.01291,205.43912 h 26.65335 v 30.89207 h -26.65335 z"
        id="path7324"
@@ -24787,7 +24787,7 @@
          x="135.31842"
          y="208.08989"
          id="tspan7340"
-         style="font-size:2.82222223px;stroke-width:0.26458332">140,1#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">140.1#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -24860,7 +24860,7 @@
          x="157.4995"
          y="216.97569"
          id="tspan7362"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,12</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.12</tspan></text>
     <path
        d="m 135.71663,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7366"
@@ -24917,7 +24917,7 @@
          x="145.84633"
          y="234.64612"
          id="tspan7380"
-         style="stroke-width:0.26458332">6,77</tspan></text>
+         style="stroke-width:0.26458332">6.77</tspan></text>
     <path
        d="m 135.71663,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7384"
@@ -25003,7 +25003,7 @@
          x="164.95161"
          y="208.08989"
          id="tspan7406"
-         style="font-size:2.82222223px;stroke-width:0.26458332">140,9</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">140.9</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -25072,7 +25072,7 @@
          x="187.17538"
          y="216.97569"
          id="tspan7426"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,13</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.13</tspan></text>
     <path
        d="m 165.35014,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7430"
@@ -25129,7 +25129,7 @@
          x="175.47984"
          y="234.64612"
          id="tspan7444"
-         style="stroke-width:0.26458332">6,77</tspan></text>
+         style="stroke-width:0.26458332">6.77</tspan></text>
     <path
        d="m 165.35014,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7448"
@@ -25215,7 +25215,7 @@
          x="194.58524"
          y="208.08989"
          id="tspan7470"
-         style="font-size:2.82222223px;stroke-width:0.26458332">144,2#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">144.2#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -25284,7 +25284,7 @@
          x="216.72519"
          y="216.97569"
          id="tspan7490"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,14</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.14</tspan></text>
     <path
        d="m 194.98367,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7494"
@@ -25340,7 +25340,7 @@
          x="205.31938"
          y="234.64612"
          id="tspan7508"
-         style="stroke-width:0.26458332">7,01</tspan></text>
+         style="stroke-width:0.26458332">7.01</tspan></text>
     <path
        d="m 194.98367,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7512"
@@ -25506,7 +25506,7 @@
          x="246.44243"
          y="216.97569"
          id="tspan7556"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,13</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.13</tspan></text>
     <path
        d="m 224.61719,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7560"
@@ -25563,7 +25563,7 @@
          x="234.74757"
          y="234.64612"
          id="tspan7574"
-         style="stroke-width:0.26458332">7,26</tspan></text>
+         style="stroke-width:0.26458332">7.26</tspan></text>
     <path
        d="m 252.73022,200.50545 v 40.00036 h 28.49971 v -40.00036 z m 0.43305,4.31242 h 27.63361 v 35.25696 h -27.63361 z"
        id="path7578"
@@ -25619,7 +25619,7 @@
          x="253.84325"
          y="208.08989"
          id="tspan7590"
-         style="font-size:2.82222223px;stroke-width:0.26458332">150,4#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">150.4#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -25688,7 +25688,7 @@
          x="276.01483"
          y="216.97569"
          id="tspan7610"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,17</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.17</tspan></text>
     <path
        d="m 254.04497,232.53378 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7614"
@@ -25745,7 +25745,7 @@
          x="264.40039"
          y="234.64612"
          id="tspan7628"
-         style="stroke-width:0.26458332">7,52</tspan></text>
+         style="stroke-width:0.26458332">7.52</tspan></text>
     <path
        d="m 254.04497,229.23637 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7632"
@@ -25831,7 +25831,7 @@
          x="283.47675"
          y="208.08989"
          id="tspan7654"
-         style="font-size:2.82222223px;stroke-width:0.26458332">152,0#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">152.0#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -25900,7 +25900,7 @@
          x="305.64023"
          y="216.97569"
          id="tspan7674"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.20</tspan></text>
     <path
        d="m 283.88422,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7678"
@@ -25957,7 +25957,7 @@
          x="293.96915"
          y="234.64612"
          id="tspan7692"
-         style="stroke-width:0.26458332">5,26</tspan></text>
+         style="stroke-width:0.26458332">5.26</tspan></text>
     <path
        d="m 283.88422,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7696"
@@ -26043,7 +26043,7 @@
          x="313.11026"
          y="208.08989"
          id="tspan7718"
-         style="font-size:2.82222223px;stroke-width:0.26458332">157,3#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">157.3#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -26116,7 +26116,7 @@
          x="335.27374"
          y="216.97569"
          id="tspan7740"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.20</tspan></text>
     <path
        d="m 313.51776,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7744"
@@ -26172,7 +26172,7 @@
          x="323.64951"
          y="234.64612"
          id="tspan7758"
-         style="stroke-width:0.26458332">7,90</tspan></text>
+         style="stroke-width:0.26458332">7.90</tspan></text>
     <path
        d="m 313.51776,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7762"
@@ -26259,7 +26259,7 @@
          x="372.33331"
          y="208.08989"
          id="tspan7784"
-         style="font-size:2.82222223px;stroke-width:0.26458332">162,5#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">162.5#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -26369,7 +26369,7 @@
          x="382.91241"
          y="234.64612"
          id="tspan7818"
-         style="stroke-width:0.26458332">8,54</tspan></text>
+         style="stroke-width:0.26458332">8.54</tspan></text>
     <path
        d="m 372.78479,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7822"
@@ -26456,7 +26456,7 @@
          x="342.7438"
          y="208.08989"
          id="tspan7844"
-         style="font-size:2.82222223px;stroke-width:0.26458332">158,9</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">158.9</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -26525,7 +26525,7 @@
          x="364.90579"
          y="216.97569"
          id="tspan7864"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.20</tspan></text>
     <path
        d="m 343.15128,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7868"
@@ -26581,7 +26581,7 @@
          x="353.33472"
          y="234.64612"
          id="tspan7882"
-         style="stroke-width:0.26458332">8,23</tspan></text>
+         style="stroke-width:0.26458332">8.23</tspan></text>
     <path
        d="m 343.15128,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7886"
@@ -26688,7 +26688,7 @@
          x="402.10379"
          y="208.08989"
          id="tspan7914"
-         style="font-size:2.82222223px;stroke-width:0.26458332">164,9</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">164.9</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -26757,7 +26757,7 @@
          x="424.24356"
          y="216.97569"
          id="tspan7934"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,23</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.23</tspan></text>
     <path
        d="m 402.4183,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7938"
@@ -26813,7 +26813,7 @@
          x="412.56662"
          y="234.64612"
          id="tspan7952"
-         style="stroke-width:0.26458332">8,79</tspan></text>
+         style="stroke-width:0.26458332">8.79</tspan></text>
     <path
        d="m 402.4183,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path7956"
@@ -26920,7 +26920,7 @@
          x="431.60037"
          y="208.08989"
          id="tspan7984"
-         style="font-size:2.82222223px;stroke-width:0.26458332">167,3#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">167.3#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -26989,7 +26989,7 @@
          x="453.79337"
          y="216.97569"
          id="tspan8004"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,24</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.24</tspan></text>
     <path
        d="m 432.05182,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8008"
@@ -27046,7 +27046,7 @@
          x="442.19324"
          y="234.64612"
          id="tspan8022"
-         style="stroke-width:0.26458332">9,07</tspan></text>
+         style="stroke-width:0.26458332">9.07</tspan></text>
     <path
        d="m 460.98141,205.43912 h 26.65335 v 30.89207 h -26.65335 z"
        id="path8026"
@@ -27112,7 +27112,7 @@
          x="461.36996"
          y="208.08989"
          id="tspan8042"
-         style="font-size:2.82222223px;stroke-width:0.26458332">168,9</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">168.9</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -27181,7 +27181,7 @@
          x="483.49408"
          y="216.97569"
          id="tspan8062"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,25</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.25</tspan></text>
     <path
        d="m 461.68536,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8066"
@@ -27238,7 +27238,7 @@
          x="471.73117"
          y="234.64612"
          id="tspan8080"
-         style="stroke-width:0.26458332">9,32</tspan></text>
+         style="stroke-width:0.26458332">9.32</tspan></text>
     <path
        d="m 461.68536,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8084"
@@ -27324,7 +27324,7 @@
          x="491.00345"
          y="208.08989"
          id="tspan8106"
-         style="font-size:2.82222223px;stroke-width:0.26458332">173,1#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">173.1#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -27393,7 +27393,7 @@
          x="513.07483"
          y="216.97569"
          id="tspan8126"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,10</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.10</tspan></text>
     <path
        d="m 491.31888,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8130"
@@ -27450,7 +27450,7 @@
          x="501.33527"
          y="234.64612"
          id="tspan8144"
-         style="stroke-width:0.26458332">6,90</tspan></text>
+         style="stroke-width:0.26458332">6.90</tspan></text>
     <path
        d="m 491.31888,229.2254 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8148"
@@ -27536,7 +27536,7 @@
          x="520.47083"
          y="208.08989"
          id="tspan8170"
-         style="font-size:2.82222223px;stroke-width:0.26458332">175,0</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">175.0</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -27609,7 +27609,7 @@
          x="542.71875"
          y="216.97569"
          id="tspan8192"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,27</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.27</tspan></text>
     <path
        d="m 520.95239,232.52281 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8196"
@@ -27666,7 +27666,7 @@
          x="531.07727"
          y="234.64612"
          id="tspan8210"
-         style="stroke-width:0.26458332">9,84</tspan></text>
+         style="stroke-width:0.26458332">9.84</tspan></text>
     <path
        d="m 134.19607,241.25154 v 40.00036 h 28.49971 v -40.00036 z m 0.43305,4.31242 h 27.63361 v 35.25696 h -27.63361 z"
        id="path8214"
@@ -27782,7 +27782,7 @@
          x="135.48241"
          y="248.83517"
          id="tspan8242"
-         style="font-size:2.82222223px;stroke-width:0.26458332">232,0*</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">232.0*</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -27881,7 +27881,7 @@
          x="157.47255"
          y="257.72382"
          id="tspan8270"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 135.71655,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8274"
@@ -27938,7 +27938,7 @@
          x="144.99808"
          y="275.39197"
          id="tspan8288"
-         style="stroke-width:0.26458332">11,78</tspan></text>
+         style="stroke-width:0.26458332">11.78</tspan></text>
     <text
        font-size="10.58333302"
        letter-spacing="0"
@@ -28029,7 +28029,7 @@
          x="165.1156"
          y="248.83517"
          id="tspan8314"
-         style="font-size:2.82222223px;stroke-width:0.26458332">231,0*</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">231.0*</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -28102,7 +28102,7 @@
          x="187.10608"
          y="257.72382"
          id="tspan8336"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,50</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.50</tspan></text>
     <path
        d="m 165.35008,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8340"
@@ -28179,7 +28179,7 @@
          x="174.63849"
          y="275.39197"
          id="tspan8360"
-         style="stroke-width:0.26458332">15,37</tspan></text>
+         style="stroke-width:0.26458332">15.37</tspan></text>
     <path
        d="m 165.35008,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8364"
@@ -28255,7 +28255,7 @@
          x="194.74922"
          y="248.83517"
          id="tspan8382"
-         style="font-size:2.82222223px;stroke-width:0.26458332">238,0*#</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">238.0*#</tspan></text>
     <text
        font-size="11.28888893"
        letter-spacing="0"
@@ -28328,7 +28328,7 @@
          x="216.73959"
          y="257.72382"
          id="tspan8404"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,38</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.38</tspan></text>
     <path
        d="m 194.9836,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8408"
@@ -28380,7 +28380,7 @@
          x="203.52235"
          y="269.59924"
          id="tspan8420"
-         style="fill:#0000ff;stroke-width:0.26458332">1132,2</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">1132.2</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -28405,7 +28405,7 @@
          x="204.26511"
          y="275.39197"
          id="tspan8428"
-         style="stroke-width:0.26458332">19,10</tspan></text>
+         style="stroke-width:0.26458332">19.10</tspan></text>
     <path
        d="m 194.9836,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8432"
@@ -28574,7 +28574,7 @@
          x="246.37103"
          y="257.72382"
          id="tspan8478"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,36</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.36</tspan></text>
     <path
        d="m 224.61713,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8482"
@@ -28650,7 +28650,7 @@
          x="230.22754"
          y="275.39197"
          id="tspan8502"
-         style="stroke-width:0.26458332">20,45 alpha</tspan></text>
+         style="stroke-width:0.26458332">20.45 alpha</tspan></text>
     <path
        d="m 224.61713,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8506"
@@ -28836,7 +28836,7 @@
          x="276.00662"
          y="257.72382"
          id="tspan8556"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,28</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.28</tspan></text>
     <path
        d="m 254.25064,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8560"
@@ -28887,7 +28887,7 @@
          x="263.60312"
          y="269.59924"
          id="tspan8572"
-         style="fill:#0000ff;stroke-width:0.26458332">639,4</tspan></text>
+         style="fill:#0000ff;stroke-width:0.26458332">639.4</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#ff0000;stroke-width:0.26458332"
@@ -28912,7 +28912,7 @@
          x="263.55008"
          y="275.39197"
          id="tspan8580"
-         style="stroke-width:0.26458332">19,82</tspan></text>
+         style="stroke-width:0.26458332">19.82</tspan></text>
     <path
        d="m 254.25064,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8584"
@@ -29098,7 +29098,7 @@
          x="305.64017"
          y="257.72382"
          id="tspan8634"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 283.88416,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8638"
@@ -29174,7 +29174,7 @@
          x="293.16568"
          y="275.39197"
          id="tspan8658"
-         style="stroke-width:0.26458332">12,00</tspan></text>
+         style="stroke-width:0.26458332">12.00</tspan></text>
     <path
        d="m 283.88416,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8662"
@@ -29364,7 +29364,7 @@
          x="335.27365"
          y="257.72382"
          id="tspan8714"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 313.51767,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8718"
@@ -29440,7 +29440,7 @@
          x="323.00314"
          y="275.39197"
          id="tspan8738"
-         style="stroke-width:0.26458332">13,51</tspan></text>
+         style="stroke-width:0.26458332">13.51</tspan></text>
     <path
        d="m 313.51767,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8742"
@@ -29606,7 +29606,7 @@
          x="364.9072"
          y="257.72382"
          id="tspan8786"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 343.15118,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8790"
@@ -29683,7 +29683,7 @@
          x="349.32178"
          y="275.39197"
          id="tspan8810"
-         style="line-height:3.52777767px;stroke-width:0.26458332">13,25 beta</tspan></text>
+         style="line-height:3.52777767px;stroke-width:0.26458332">13.25 beta</tspan></text>
     <path
        d="m 343.15118,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8814"
@@ -29828,7 +29828,7 @@
          x="394.54071"
          y="257.72382"
          id="tspan8852"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 372.7847,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8856"
@@ -29904,7 +29904,7 @@
          x="383.03085"
          y="275.39197"
          id="tspan8876"
-         style="stroke-width:0.26458332">15,1</tspan></text>
+         style="stroke-width:0.26458332">15.1</tspan></text>
     <path
        d="m 372.7847,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8880"
@@ -30049,7 +30049,7 @@
          x="424.17313"
          y="257.72382"
          id="tspan8918"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 402.41824,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8922"
@@ -30126,7 +30126,7 @@
          x="412.54587"
          y="275.39197"
          id="tspan8942"
-         style="stroke-width:0.26458332">8,84</tspan></text>
+         style="stroke-width:0.26458332">8.84</tspan></text>
     <path
        d="m 402.41824,266.67413 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8946"
@@ -30271,7 +30271,7 @@
          x="453.80774"
          y="257.72382"
          id="tspan8984"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 432.05176,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path8988"
@@ -30422,7 +30422,7 @@
          x="483.44125"
          y="257.72382"
          id="tspan9028"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 461.68527,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path9032"
@@ -30588,7 +30588,7 @@
          x="513.07477"
          y="257.72382"
          id="tspan9076"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 491.31879,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path9080"
@@ -30759,7 +30759,7 @@
          x="542.70825"
          y="257.72382"
          id="tspan9126"
-         style="font-size:2.11666656px;stroke-width:0.26458332">1,30</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">1.30</tspan></text>
     <path
        d="m 520.95233,273.26892 h 3.29741 v 3.29741 h -3.29741 z"
        id="path9130"
@@ -39594,7 +39594,7 @@
          x="542.86475"
          y="53.44426"
          id="tspan11984"
-         style="font-size:2.11666656px;stroke-width:0.26458332">3,00</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">3.00</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -39609,7 +39609,7 @@
          x="542.86475"
          y="94.183929"
          id="tspan11988"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,60</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.60</tspan></text>
     <text
        font-size="2.82222223"
        letter-spacing="0"
@@ -39624,7 +39624,7 @@
          x="542.86469"
          y="135.1458"
          id="tspan11992"
-         style="font-size:2.11666656px;stroke-width:0.26458332">2,20</tspan></text>
+         style="font-size:2.11666656px;stroke-width:0.26458332">2.20</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.26458332"
@@ -39660,7 +39660,7 @@
          x="441.36908"
          y="275.39197"
          id="tspan12004"
-         style="stroke-width:0.26458332">9,7(1)</tspan></text>
+         style="stroke-width:0.26458332">9.7(1)</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.26458332"
@@ -39696,7 +39696,7 @@
          x="470.1496"
          y="275.39197"
          id="tspan12016"
-         style="stroke-width:0.26458332">10,3(7)</tspan></text>
+         style="stroke-width:0.26458332">10.3(7)</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.26458332"
@@ -39732,7 +39732,7 @@
          x="500.63614"
          y="275.39197"
          id="tspan12028"
-         style="stroke-width:0.26458332">9,9(4)</tspan></text>
+         style="stroke-width:0.26458332">9.9(4)</tspan></text>
     <text
        line-height="1.25"
        style="font-size:2.82222223px;line-height:1.25;font-family:'Segoe UI';letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.26458332"
@@ -39768,7 +39768,7 @@
          x="529.31036"
          y="275.39197"
          id="tspan12040"
-         style="stroke-width:0.26458332">15,1(5)</tspan></text>
+         style="stroke-width:0.26458332">15.1(5)</tspan></text>
     <path
        d="m 520.87708,-12.434159 h 3.29741 v 3.2974074 h -3.29741 z"
        id="path12044"
@@ -40199,7 +40199,7 @@
          x="81.630859"
          y="-36.773952"
          id="tspan12178"
-         style="font-size:3.17499995px;stroke-width:0.26458332">IUPAC adopted a decition to more accurately indicate the isotopic distribution of elements</tspan><tspan
+         style="font-size:3.17499995px;stroke-width:0.26458332">IUPAC adopted a decision to more accurately indicate the isotopic distribution of elements</tspan><tspan
          font-size="3.17499995"
          x="81.630859"
          y="-32.805202"
@@ -40227,7 +40227,7 @@
    font-size="3.17499995"
    font-weight="bold"
    id="tspan12188"
-   style="font-weight:bold;font-size:3.17499995px">[12,00 - 12,02]</tspan> - the atomic weight is in this interval in natural materials;</tspan><tspan
+   style="font-weight:bold;font-size:3.17499995px">[12.00 - 12.02]</tspan> - the atomic weight is in this interval in natural materials;</tspan><tspan
          x="81.630859"
          y="-13.720191"
          id="tspan12192"
@@ -40240,7 +40240,7 @@
    font-size="3.17499995"
    font-weight="bold"
    id="tspan12194"
-   style="font-weight:bold;font-size:3.17499995px">78,96(3)</tspan> - value of atomic weight with reliable accuracy of determination in parentheses. If the</tspan><tspan
+   style="font-weight:bold;font-size:3.17499995px">78.96(3)</tspan> - value of atomic weight with reliable accuracy of determination in parentheses. If the</tspan><tspan
          font-size="3.17499995"
          x="81.630859"
          y="-5.9058971"
@@ -40258,7 +40258,7 @@
    font-size="3.17499995"
    font-weight="bold"
    id="tspan12202"
-   style="font-weight:bold;font-size:3.17499995px">80,80#</tspan> - the value of atomic weight may differ from the average in some materials;</tspan><tspan
+   style="font-weight:bold;font-size:3.17499995px">80.80#</tspan> - the value of atomic weight may differ from the average in some materials;</tspan><tspan
          x="81.630859"
          y="5.2416143"
          id="tspan12206"
